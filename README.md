@@ -1,2 +1,0 @@
-# Scratchblox
-Scratchblox Website
